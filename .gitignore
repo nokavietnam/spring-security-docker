@@ -5,8 +5,10 @@ target/
 !**/src/test/**/target/
 
 ## docker
-.m2
 docker
+
+## maven
+.m2
 
 ### STS ###
 .apt_generated
